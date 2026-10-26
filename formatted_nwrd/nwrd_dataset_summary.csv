@@ -1,0 +1,14 @@
+metric,value
+dataset_root,/Users/ismailaitzaz/Downloads/projects/nsef/NWRD
+images_scanned,100
+potential_mask_files,100
+images_with_mask_matches,100
+images_without_mask_matches,0
+images_with_exif_dates,97
+images_with_filename_dates,0
+images_without_dates,3
+images_with_verified_exif_metadata,97
+date_source_counts,"{'EXIF': 97, 'missing': 3}"
+split_counts,"{'train': 90, 'test': 10}"
+disease_labels_verified,False
+note,"Folder names were not used as disease labels. EXIF capture dates are recorded as image dates, but date metadata alone does not establish disease onset, location, or outbreak status."

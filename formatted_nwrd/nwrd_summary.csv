@@ -1,0 +1,16 @@
+metric,value
+total_images,100
+train_images,90
+test_images,10
+validation_images,0
+unknown_split_images,0
+images_with_masks,100
+images_without_masks,0
+images_with_exif_dates,97
+images_with_filename_date_candidates,0
+images_without_capture_date,3
+images_with_gps,0
+images_with_metadata_errors,0
+images_with_multiple_mask_matches,0
+earliest_capture_date,2022-03-04
+latest_capture_date,2022-06-30
